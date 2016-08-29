@@ -8,7 +8,7 @@ android:
     - extra-google-google_play_services
   licenses:
     - 'android-sdk-license-.+'
-    - 'google-gdk-license-.+'i
+    - 'google-gdk-license-.+'
 
 before_script:
   - echo no | android create avd --force -n test -t android-22 --abi armeabi-v7a
