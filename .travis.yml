@@ -3,9 +3,9 @@ android:
   components:
     - build-tools-24.0.2
     - android-19
+    - android-24
     - add-on
     - extra
-    - extra-google-google_play_services
   licenses:
     - 'android-sdk-license-.+'
     - 'google-gdk-license-.+'
